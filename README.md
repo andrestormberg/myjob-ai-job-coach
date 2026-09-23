@@ -79,3 +79,24 @@ The same product context can be used across different entry points:
 - **MCP interface** — AI assistants can access myJob tools and application context directly.
 - **Shared context** — profile knowledge, jobs and applications remain available across workflows.
 - **Tool-based actions** — the AI can search, analyse, create and update information instead of only generating text.
+
+
+## Technology
+
+myJob is a working web application that I design and build using AI-assisted development.
+
+**Application**
+- PHP · Laravel · JavaScript
+- MySQL
+- REST APIs
+
+**AI & integrations**
+- LLM APIs
+- Model Context Protocol (MCP)
+- Tool-based AI workflows
+- Chrome Extension integration
+
+**Development approach**
+- AI-assisted coding
+- Rapid prototyping and iteration
+- Product discovery translated directly into working software
