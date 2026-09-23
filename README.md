@@ -12,8 +12,16 @@ From there, AI supports the complete journey — discovering relevant opportunit
 
 > The goal is not to add AI to a traditional job board.  
 > The goal is to rethink the job-search experience around AI.
->
-> ## What it does
+
+## Conversation first
+
+myJob starts by understanding the person — not by asking for search keywords.
+
+Through conversation, it builds persistent context about experience, achievements, preferences and goals. This context can later be used across job discovery, fit analysis and applications.
+
+![myJob conversational profile](myjob_chat_desktop.png)
+
+## What it does
 
 myJob connects the individual steps of a job search into one AI-supported workflow.
 
