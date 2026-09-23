@@ -33,3 +33,11 @@ myJob connects the individual steps of a job search into one AI-supported workfl
 - **Acts through tools** — AI can use application functions and external sources to perform multi-step workflows instead of only generating text.
 
 The result is a job-search experience in which the user increasingly interacts with **one AI assistant instead of many disconnected tools and forms**.
+
+## From conversation to action
+
+The conversational interface is only one part of myJob. Information and actions are translated into a structured job-search workflow.
+
+Jobs can be collected from different sources, evaluated against the user's profile and stored with their individual fit assessment. This allows the AI assistant to work with the same application data as the user.
+
+![myJob job evaluation](myjob_job_evaluation.png)
