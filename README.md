@@ -42,3 +42,40 @@ Jobs can be collected from different sources, evaluated against the user's profi
 
 
 ![myJob job evaluation](myjob_job_evaluation2.png)
+
+
+
+## How it works
+
+myJob is built around a shared user and application context that can be accessed through different interfaces.
+
+```mermaid
+flowchart TB
+    U[User]
+
+    U --> CHAT[myJob Conversational Interface]
+    U --> EXT[Chrome Extension]
+    U --> MCP[MCP Interface]
+
+    CHAT --> AI[AI & Orchestration Layer]
+    EXT --> AI
+    MCP --> AI
+
+    AI <--> PROFILE[User Profile & Knowledge]
+    AI <--> JOBS[Jobs & Applications]
+
+    AI --> TOOLS[Tools & Actions]
+
+    TOOLS --> SEARCH[Job Search & External Sources]
+    TOOLS --> FIT[Job Fit Analysis]
+    TOOLS --> DOCS[CV & Cover Letters]
+    TOOLS --> TRACK[Application Tracking]
+```
+
+The same product context can be used across different entry points:
+
+- **Conversational interface** — users manage their job search through natural dialogue.
+- **Chrome Extension** — jobs discovered on external job platforms can be transferred directly into myJob.
+- **MCP interface** — AI assistants can access myJob tools and application context directly.
+- **Shared context** — profile knowledge, jobs and applications remain available across workflows.
+- **Tool-based actions** — the AI can search, analyse, create and update information instead of only generating text.
