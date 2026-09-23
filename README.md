@@ -1,2 +1,27 @@
-# myjob-ai-job-coach
-AI-native job search and application platform — from job discovery to tailored applications
+# myJob
+
+### An AI-native approach to job searching
+
+myJob is a personal project exploring a simple question:
+
+**What if finding a job didn't start with a search form, but with a conversation?**
+
+Instead of forcing users to translate their experience and goals into keywords, filters and job titles, myJob builds an understanding of the person first.
+
+From there, AI supports the complete journey — discovering relevant opportunities, evaluating fit, preparing tailored application documents and keeping track of applications.
+
+> The goal is not to add AI to a traditional job board.  
+> The goal is to rethink the job-search experience around AI.
+>
+> ## What it does
+
+myJob connects the individual steps of a job search into one AI-supported workflow.
+
+- **Understands the user** — experience, skills, preferences, goals and development interests become persistent context.
+- **Finds opportunities** — searches multiple job sources based on that context rather than relying only on fixed job titles.
+- **Evaluates fit** — analyses opportunities and explains strengths, gaps and relevant aspects of the role.
+- **Personalises applications** — adapts CV content and creates tailored cover letters without inventing experience or qualifications.
+- **Tracks the process** — stores jobs and applications, detects duplicates and keeps the search organised.
+- **Acts through tools** — AI can use application functions and external sources to perform multi-step workflows instead of only generating text.
+
+The result is a job-search experience in which the user increasingly interacts with **one AI assistant instead of many disconnected tools and forms**.
