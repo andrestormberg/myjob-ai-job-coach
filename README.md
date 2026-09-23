@@ -100,3 +100,15 @@ myJob is a working web application that I design and build using AI-assisted dev
 - AI-assisted coding
 - Rapid prototyping and iteration
 - Product discovery translated directly into working software
+
+## Why I built it
+
+myJob started from my own experience of returning to the job market after a longer break.
+
+I quickly realised that AI was changing not only how people apply for jobs, but also the jobs themselves. New roles such as AI Product Manager, AI Builder or AI Transformation Manager often don't fit neatly into traditional job-title searches.
+
+That led to the core product question:
+
+**Can an AI understand a person well enough to continuously discover opportunities they might never have searched for themselves?**
+
+myJob grew from that question into an experiment in rethinking the entire application journey — from understanding the person to finding opportunities, evaluating fit and preparing an application.
